@@ -1,5 +1,9 @@
 witajcie
 witaj, od maks
 pozdrawiam
+<<<<<<< HEAD
 co u was?
 wszytko ok, a u ciebie?
+=======
+co u was??
+>>>>>>> e876ecf5613f6ae72ef71e9ee64429671e567f51
